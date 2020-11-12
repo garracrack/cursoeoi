@@ -1,3 +1,2 @@
 yyyyy
-"HECHO CON MASTER"
-cambiado por admin
+"CAMBIO REALIZADO POR PROYECTO2"
